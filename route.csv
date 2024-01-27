@@ -1,0 +1,34 @@
+source,source_lat,source_lon,destination,dest_lat,dest_lon,route
+Beijing,39.904202,116.407394,Chang'an,34.266665,108.8999964,The Imperial Highway
+Shanghai,31.230391,121.473701,Chang'an,34.266665,108.8999964,The Imperial Highway
+Chang'an,34.266665,108.8999964,Lanzhou,36.057968,103.790047,The Imperial Highway
+Lanzhou,36.057968,103.790047,Jiuquan,39.742062,98.510002,The Imperial Highway
+Jiuquan,39.742062,98.510002,Yumen,39.83333,97.5666644,The Imperial Highway
+Yumen,39.83333,97.5666644,Anxi,40.0999996,94.6499974,The Imperial Highway
+Anxi,40.0999996,94.6499974,Hami,42.83393,93.50601,The Silk Road
+Anxi,40.0999996,94.6499974,Khotan,37.1075,79.93548,The Imperial Highway
+Hami,42.83393,93.50601,Turfan,42.94769,89.17886,The Silk Road
+Turfan,42.94769,89.17886,Kucha,41.72778,82.93639,The Silk Road
+Kucha,41.72778,82.93639,Aksu,41.166666,80.249999,The Silk Road
+Aksu,41.166666,80.249999,Kashgar,39.47066,75.98951,The Silk Road
+Khotan,37.1075,79.93548,Kashgar,39.47066,75.98951,The Silk Road
+Kashgar,39.47066,75.98951,Osh,40.52828,72.7985,The Silk Road
+Osh,40.52828,72.7985,Kokand,40.52861,70.9425,The Silk Road
+Samarkand,39.65249739,66.95582951,Bukhara,39.7666636,64.4333316,The Silk Road
+Bukhara,39.7666636,64.4333316,Mashhad,36.31559,59.56796,The Silk Road
+Khotan,37.1075,79.93548,Taxila,33.74083037,72.78583019,The Silk Road
+Taxila,33.74083037,72.78583019,Kabul,34.52813,69.17233,The Silk Road
+Kabul,34.52813,69.17233,Balkh,36.75635,66.8972,The Silk Road
+Balkh,36.75635,66.8972,Mashhad,36.31559,59.56796,The Silk Road
+Taxila,33.74083037,72.78583019,Delhi,28.63576,77.22445,The Great Royal Road
+Delhi,28.63576,77.22445,Allahabad,25.45,81.84,The Great Royal Road
+Allahabad,25.45,81.84,Patna,25.61538,85.10103,The Great Royal Road
+Patna,25.61538,85.10103,Kolkata,22.5499978,88.333332,The Great Royal Road
+Turfan,42.94769,89.17886,Gulja (Yining),43.8999964,81.3499986,The Silk Road
+Gulja (Yining),43.8999964,81.3499986,Chach (Tashkent),41.26465,69.21627,The Silk Road
+Chach (Tashkent),41.26465,69.21627,Kokand,40.52861,70.9425,The Silk Road
+Kokand,40.52861,70.9425,Samarkand,39.65249739,66.95582951,The Silk Road
+Mashhad,36.31559,59.56796,Hecatompylos (Qumis),35.95699617,54.03583319,The Silk Road
+Hecatompylos (Qumis),35.95699617,54.03583319,Rhagae (Tehran),35.69439,51.42151,The Silk Road
+Rhagae (Tehran),35.69439,51.42151,Ctesiphon,33.08949964,44.5749977,The Silk Road
+Ctesiphon,33.08949964,44.5749977,Anatolia,39,32,The Silk Road
